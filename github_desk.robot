@@ -10,7 +10,7 @@ tc1
     press keys  //body   ENTER
     sleep   5
     reload page
-#    sleep  3
-#    input text  //input[@name='q']  hanumantharaju tv
-#    press key  //body   ENTER
-#    Close Browser
+    sleep  3
+    input text  //input[@name='q']  hanumantharaju tv
+    press key  //body   ENTER
+    Close Browser
